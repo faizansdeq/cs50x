@@ -1,0 +1,7 @@
+# Public portfolio: documentation and screenshot images only.
+# Keep assessed source, submissions, archives, and build files private.
+*
+!*/
+!README.md
+!**/screenshots/*.png
+!/.gitignore
