@@ -56,6 +56,8 @@ The estimate connects text statistics with a numerical reading-level model. Sepa
 
 **Local verification:** Compiled and ran successfully in the private coursework repository; the representative output is shown above.
 
+**Source availability:** Assessment source code is kept private in accordance with [CS50’s Academic Honesty policy](https://cs50.harvard.edu/x/honesty/?utm_source=chatgpt.com).
+
 ---
 
 [Back to Week 2](../README.md) · [Back to repository](../../README.md)

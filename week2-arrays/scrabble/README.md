@@ -59,6 +59,8 @@ The scoring task connects character processing with an indexed table of letter v
 
 **Local verification:** Compiled and ran successfully in the private coursework repository; the representative output is shown above.
 
+**Source availability:** Assessment source code is kept private in accordance with [CS50’s Academic Honesty policy](https://cs50.harvard.edu/x/honesty/?utm_source=chatgpt.com).
+
 ---
 
 [Back to Week 2](../README.md) · [Back to repository](../../README.md)
