@@ -21,7 +21,7 @@ Assessed solution source and submission artifacts from future weeks will also re
 | [Week 0 – Scratch](./week0-scratch/) | Scratch | ✅ Completed |
 | [Week 1 – C](./week1-c/) | C Programming | ✅ Completed |
 | [Week 2 – Arrays](./week2-arrays/) | Arrays | ✅ Completed |
-| Week 3 – Algorithms | Algorithms | ⏳ Upcoming |
+| [Week 3 – Algorithms](./week3-algorithms/) | Algorithms | ✅ Completed |
 | Week 4 – Memory | Memory | ⏳ Upcoming |
 | Week 5 – Data Structures | Data Structures | ⏳ Upcoming |
 | Week 6 – Python | Python | ⏳ Upcoming |
@@ -39,7 +39,8 @@ CS50x/
 ├── README.md
 ├── week0-scratch/
 ├── week1-c/
-└── week2-arrays/
+├── week2-arrays/
+└── week3-algorithms/
 ```
 
 ---
